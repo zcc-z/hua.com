@@ -8,7 +8,11 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "cookie": "^0.4.1",
+    "jquery": "^3.5.1",
+    "requirejs": "^2.3.6"
+  },
   "devDependencies": {
     "cheerio": "^1.0.0-rc.3",
     "gulp": "^4.0.2",
